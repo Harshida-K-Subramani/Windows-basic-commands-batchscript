@@ -40,10 +40,6 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 
 ![alt text](op2.png)
 
-List the contents of the "MyLab" directory.
-
-
-## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
